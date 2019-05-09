@@ -12,7 +12,7 @@ $d2=new DateTime(date("Y-m-d"));
 $d1=$d1->format('Y-m-d H:i:s');
 $d2=$d2->format('Y-m-d');
 
-$temp=rand(30, 80);
+$temp=rand(90, 100);
 $horno=1;
 
 $data = array(
@@ -44,7 +44,7 @@ $d2=new DateTime(date("Y-m-d"));
 $d1=$d1->format('Y-m-d H:i:s');
 $d2=$d2->format('Y-m-d');
 
-$temp=rand(30, 80);
+$temp=rand(90, 100);
 $horno=2;
 
 $data = array(
